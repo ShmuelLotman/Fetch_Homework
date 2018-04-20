@@ -1,0 +1,9 @@
+Hello! Below please find instructions for executing the code: 
+
+The code comes with a suite of tests to ensure the code performs as expected. To execute:
+
+1. Unzip the files
+2. Navigate to the correct directory in your terminal and then:
+3. yarn install - this will install the required modules and enable you to run the tests to ensure the code is functioning. 
+4. Execute 'yarn test' (sans quotes) in the terminal to see the results of the tests.  
+
